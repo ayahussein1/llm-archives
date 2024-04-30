@@ -22,4 +22,4 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+I used a story from Montgomery Community Media called "DMV Recap of the 2024 NFL Draft" (https://www.mymcmedia.org/dmv-recap-of-the-2024-nfl-draft/) which covers all the players from the DMV area. It was good at identifying all the names of the players. For places, it included where the players were from as well as where the draft was being held (Detroit). It did not include "DMV" as a place. For organizations, it included all the NFL teams, and the colleges they played for. It also included the high schools that the players attended.
